@@ -1,4 +1,4 @@
-# Import Export Kobo annotation
+# Import Export Kobo annotation with Calibre
 
 # Licence
 
